@@ -42,6 +42,3 @@ Output:
 ## 📚 Acknowledgments
 Dataset collected from eBird.org
 
-Developed as part of the FeatherFind project for the BSc (Hons) in Artificial Intelligence and Data Science degree.
-
-Supervised by faculty at Informatics Institute of Technology in collaboration with Robert Gordon University.
